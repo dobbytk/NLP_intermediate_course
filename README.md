@@ -14,6 +14,6 @@ Contributors: \
 [정의한](https://github.com/EuiHanJung) \
 [이진수](https://github.com/IDF13) \
 [주영하](https://github.com/youngha-Ju) \
-[진가형]() \
+[진가형](https://github.com/Cheyenne-cloud) \
 [심판교]() \
-[김태영]()
+[김태영](https://github.com/itisused)
