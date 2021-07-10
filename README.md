@@ -15,5 +15,5 @@ Contributors: \
 [이진수](https://github.com/IDF13) \
 [주영하](https://github.com/youngha-Ju) \
 [진가형](https://github.com/Cheyenne-cloud) \
-[심판교]() \
+[심판교](https://github.com/SimPangyo) \
 [김태영](https://github.com/itisused)
