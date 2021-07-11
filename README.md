@@ -2,7 +2,7 @@
 
 스터디일자|발표 내용|발표자|발표자료|
 |------|-------------|----|---|
-|2021.07.11|순환 신경망(RNN, LSTM, GRU) </br> Word2Vec(skip-gram, negative sampling)|김택현 </br> 김예찬|https://bit.ly/3AMk2EN|
+|2021.07.11|순환 신경망(RNN, LSTM, GRU) </br> Word2Vec(skip-gram, negative sampling)|김택현 </br> 김예찬|https://bit.ly/3AMk2EN </br> https://bit.ly/3hZ6Js3|
 |2021.07.18|          |     |     |
 |2021.07.25|          |     |     |
 
