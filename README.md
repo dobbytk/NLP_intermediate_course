@@ -4,7 +4,7 @@
 |------|-------------|----|---|
 |2021.07.11|순환 신경망(RNN, LSTM, GRU) </br> Word2Vec(skip-gram, negative sampling)|김택현 </br> 김예찬|https://bit.ly/3AMk2EN </br> https://bit.ly/3hZ6Js3|
 |2021.07.18|GloVe </br> FastText </br> ELMo|김태영 </br> 진가형 </br> 유현승|https://bit.ly/3wOwmRF </br> https://bit.ly/3BdqHbj|
-|2021.07.25|바이트 페어 인코딩(BPE) </br> 센텐스피스(Sentencepiece) </br> 서브워드텍스트인코더(SubwordTextEncoder) |     |     |
+|2021.07.25|바이트 페어 인코딩(BPE) </br> 센텐스피스(Sentencepiece) </br> 서브워드텍스트인코더(SubwordTextEncoder) |주영하 </br> 심판교 </br> 이진수|     |
 
 Contributors: \
 [김택현](https://github.com/dobbytk) \
