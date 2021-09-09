@@ -7,7 +7,7 @@
 |2021.07.25|바이트 페어 인코딩(BPE) </br> 센텐스피스(Sentencepiece) </br> 서브워드텍스트인코더(SubwordTextEncoder) |이진수 </br> 심판교 </br> 주영하|https://bit.ly/3BGiaxW </br> https://bit.ly/3i3zZit </br> https://bit.ly/2UMorr9|
 |2021.08.01|시퀀스-투-시퀀스(Seq2Seq)|이지수|https://bit.ly/37dzg8i|
 |2021.08.08|BLEU Score|정의한| https://bit.ly/3fM3gwM|
-|2021.08.15|어텐션 메커니즘|김예찬 </br> 유현승|https://bit.ly/3zXjkDO|
+|2021.08.15|어텐션 메커니즘 </br> 바다나우 어텐션|김예찬 </br> 유현승|https://bit.ly/3zXjkDO </br> https://bit.ly/3hfdeY0|
 |2021.08.29|Transformer|이지수 </br> 진가형 </br> 유현승 </br> 김택현|
 |2021.09.05|BERT|심판교 </br> 김태영 </br> 주영하|
 
