@@ -9,7 +9,7 @@
 |2021.08.08|BLEU Score|정의한| https://bit.ly/3fM3gwM|
 |2021.08.15|어텐션 메커니즘 </br> 바다나우 어텐션|김예찬 </br> 유현승|https://bit.ly/3hfdeY0 </br> https://bit.ly/3zXjkDO|
 |2021.08.29|Transformer|이지수 </br> 진가형 </br> 유현승 </br> 김택현|
-|2021.09.05|BERT|심판교 </br> 김태영 </br> 주영하|
+|2021.09.05|BERT|심판교 </br> 김태영 </br> 주영하| https://bit.ly/2ZifGqO
 
 Contributors: \
 [김택현](https://github.com/dobbytk) \
